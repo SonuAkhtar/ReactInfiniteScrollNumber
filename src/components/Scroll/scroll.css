@@ -1,0 +1,15 @@
+.scroll__container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.scroll__container span {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
+  border: 1px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
